@@ -4,7 +4,7 @@ This github page will hold all of my present, past, and future sideprojects.
 
 LinkedIn: www.linkedin.com/in/alecsteines
 
-Email(No spam, please!): alecsteines@gmail.com
+Email(No spam please!): alecsteines@gmail.com
 
 <!---
 AlecSteines/AlecSteines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
