@@ -1,8 +1,9 @@
-Hello! I'm Alec Steines and I am an aspiring software developer/engineer
-I am currently focused on .NET/C#, SQL, JavaScript, HTML, and CSS
-This github page will hold all of my present, past, and future sideprojects
+Hello! I'm Alec Steines and I am an aspiring software developer/engineer.
+I am currently focused on .NET/C#, SQL, JavaScript, HTML, and CSS.
+This github page will hold all of my present, past, and future sideprojects.
 
 LinkedIn: www.linkedin.com/in/alecsteines
+
 Email(No spam please!): alecsteines@gmail.com
 
 <!---
